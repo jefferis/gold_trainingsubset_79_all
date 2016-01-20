@@ -1,0 +1,3 @@
+**/*.v3dpbd
+!*v3dpbd/
+.DS_Store
