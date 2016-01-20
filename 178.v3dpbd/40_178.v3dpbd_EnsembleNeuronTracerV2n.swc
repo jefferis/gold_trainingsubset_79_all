@@ -1,0 +1,8 @@
+#name /lustre/atlas2/nro101/proj-shared/BigNeuron/data/Hanchuan_curated/images/178.v3dpbd/178.v3dpbd_EnsembleNeuronTracerV2n.swc
+#comment 
+##n,type,x,y,z,radius,parent
+1 20 670 238 12 1 2
+2 20 668.667 240.667 13.1111 2 3
+3 20 667.037 241.259 14.0247 2 4
+4 20 666.527 241.687 14.9067 2 5
+5 20 666 242 16 3 4

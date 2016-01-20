@@ -1,0 +1,20 @@
+#name Advantra
+#author: Miroslav (miroslav.radojevic@gmail.com)
+#params:
+#channel=1
+#scal=10
+#perc=95
+#znccTh=0.6
+#Ndir=15
+#angSig=60
+#Ni=30
+#Ns=5
+#zDist=1
+#---------------------
+#Kskip=3
+#bgratio=0.3
+#maxBlobCount=5
+#minSomaSize=1
+#comment 
+##n,type,x,y,z,radius,parent
+1 2 404.621 119.357 53.959 127.500 -1

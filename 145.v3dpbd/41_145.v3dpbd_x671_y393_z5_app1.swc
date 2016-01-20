@@ -1,0 +1,24 @@
+#name APP1_Tracing
+#comment 
+###Vaa3D-Neuron-APP1 v2.621
+##channel = 0
+##bkg_thresh = 40
+##visible_thresh = 30
+##downsample_factor = 2
+##b_256cube = 1
+##xc0 = 0
+##xc1 = 1023
+##yc0 = 0
+##yc1 = 1023
+##zc0 = 0
+##zc1 = 113
+##neuron preprocessing time (milliseconds) = 112
+##neuron tracing time (milliseconds) = 36921
+##n,type,x,y,z,radius,parent
+1 2 668.000 384.000 4.000 1.000 2
+2 2 668.394 388.771 4.267 3.000 5
+3 2 672.000 388.000 4.000 3.000 6
+4 2 664.000 392.000 4.000 2.000 5
+5 2 670.434 392.592 4.383 2.000 -1
+6 2 671.754 392.007 4.215 3.000 5
+7 2 676.000 392.000 4.000 3.000 6
