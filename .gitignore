@@ -1,3 +1,4 @@
 **/*.v3dpbd
 !*v3dpbd/
+**/*.v3draw
 .DS_Store
