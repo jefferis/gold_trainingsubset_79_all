@@ -15,7 +15,7 @@ and distributed to participants on 2016-01-20.
 
 ## License
 
-Please note that these data are unpublished outputs of the BigNeuron project
+Please note that these data are unpublished, in-progress outputs of the BigNeuron project
 and should be treated as such. Please see [BigNeuron wiki](https://github.com/BigNeuron/docs/wiki/Neuron-Annotation-Data) for further details.
 
 The use of these data presented here is constrained by the Rules to Participate
