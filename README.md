@@ -6,8 +6,12 @@ of reconstruction:
 
 1. manual, gold standard reconstructions originally available 
    [here](https://github.com/BigNeuron/docs/wiki/Neuron-Annotation-Data)
-2. Automated reconstructions from up to 43 tools (including variants/updates
-   of the same tool)
+   their filenames start with prefix "00".
+2. Automated reconstructions from up to 44 tools (including variants/updates
+   of the same tool). They are ordered (the number prefix in the filenames)
+   by increasing average neuron distance (calculated from Vaa3D) to the gold
+   standard reconstructions. "01" indicates the reconstrcution that is closest to
+   the ground truth (by the metric).
 
 These were collated by Xiaoxiao Liu at the time of the [BigNeuron Analysis 
 Hackathon at Imperial College](https://github.com/BigNeuron/docs/wiki/BigNeuron-Imperial-Discussion-Notes)
